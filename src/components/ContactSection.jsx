@@ -16,6 +16,7 @@ function Contact() {
                     <p>Phone: 9373805186</p>
                     <p>Email: <a href="mailto:contact@kunalpetare.in">contact@kunalpetare.in</a></p>
                     <p>Email: <a href="mailto:kunalpetare123@gmail.com">kunalpetare123@gmail.com</a></p>
+                    <p>GitHub <a href="https://github.com/Nexo-0"></a>Nexo-0</p>
                     <p>Hours: 10 AM – 2 AM</p>
                 </div>
             </div>
