@@ -1,6 +1,7 @@
 {
   "name": "my-portfolio",
   "private": true,
+  "homepage": "https://Nexo-0.github.io/my-portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -28,6 +29,6 @@
     "eslint-plugin-react-refresh": "^0.4.9",
     "gh-pages": "^6.3.0",
     "globals": "^15.9.0",
-    "vite": "^5.4.1"
+    "vite": "^6.3.5"
   }
 }

@@ -1,5 +1,5 @@
 import React from "react";
-
+import { FaGithub } from 'react-icons/fa';
 function Contact() {
   return (
     <section id="contact" className="contact-section py-5">
