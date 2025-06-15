@@ -1,0 +1,21 @@
+[
+  {
+    "title": "🌤️ Weather App",
+    "image": "/Images/Weather.jpg",
+    "description": "Real-time weather dashboard using WeatherAPI, HTML, JS, and Bootstrap.",
+    "live": "https://weather.kunalpetare.in",
+    "github": "https://github.com/Nexo-0/Weather-app"
+  },
+  {
+    "title": "💻 CodeCrafters",
+    "image": "/Images/CodeCrafters.png",
+    "description": "Modern web development company site built with HTML, CSS, and responsiveness.",
+    "note": "*Live demo currently offline – files lost after SSD reset"
+  },
+  {
+    "title": "🚗 CarVilla",
+    "image": "/Images/CarVilla.png",
+    "description": "Car showroom web portal made with PHP backend and Bootstrap UI.",
+    "note": "*Demo offline – project files lost after system reset"
+  }
+]
