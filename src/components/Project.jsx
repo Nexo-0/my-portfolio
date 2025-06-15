@@ -8,7 +8,7 @@ function Project() {
         <h2 className="text-center mb-5">Projects</h2>
         <div className="row g-4 justify-content-center">
           {projectData.map((project, index) => (
-            <div className="col-md-4" key={index}>
+            <div className="col-md-3" key={index}>
               <div className="card shadow-sm h-100 position-relative">
                 <img
                   src={project.image}

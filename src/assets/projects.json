@@ -7,6 +7,13 @@
     "github": "https://github.com/Nexo-0/Weather-app"
   },
   {
+    "title": "🛒 Amazon Clone",
+    "image": "/Images/amazon.png",
+    "description": "E-commerce website clone built using React, Bootstrap, and dynamic routing with product details.",
+    "live": "https://ecom.kunalpetare.in",
+    "github": "https://github.com/Nexo-0/Amazon-project"
+  },
+  {
     "title": "💻 CodeCrafters",
     "image": "/Images/CodeCrafters.png",
     "description": "Modern web development company site built with HTML, CSS, and responsiveness.",
@@ -18,4 +25,5 @@
     "description": "Car showroom web portal made with PHP backend and Bootstrap UI.",
     "note": "*Demo offline – project files lost after system reset"
   }
+
 ]
